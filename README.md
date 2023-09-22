@@ -1,4 +1,4 @@
-### Welcome, fellow human! I'm Alfredo 👋 🇮🇹
+### Greetings, Earthlings! I'm Alfredo 👋 🇮🇹
 
 ![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
 ![Nationality](https://img.shields.io/badge/Nationality-Italian-gold)
