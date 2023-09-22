@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome, fellow human! I'm Alfredo 👋 🇮🇹
 
-<!--
-**AlfredoBellisario/AlfredoBellisario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue)
+![Nationality](https://img.shields.io/badge/Nationality-Italian-gold)
+![Location](https://img.shields.io/badge/Uppsala-Sweden-red)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a theoretical physicist employed by biologists to work on neural networks and machine learning. 
+Like Balto - "all he knows is what he's not"
+
+Quick facts:
+- 🫀 stuff I like: :atom: 🤖 🎷 🎮 👽
+- 💬 stuff I pretend to know: **Python, Tensorflow, quantum computing** 
+- 📫 find me on Discord and/or on Slowly as HalCG
+- 🌱 currently learning PennyLane 
+- 💻 current favourite open source project: **[InvokeAI -The best AI image generation platform](https://github.com/invoke-ai/InvokeAI)**
