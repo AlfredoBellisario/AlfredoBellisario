@@ -12,5 +12,7 @@ Quick facts:
 - 🫀 stuff I like: :atom: 🤖 🎷 🎮 👽
 - 💬 stuff I pretend to know: **Python, Tensorflow, quantum computing** 
 - 📫 find me on Discord and/or on Slowly as HalCG
-- 🌱 currently learning PennyLane 
+- 🌱 currently learning PennyLane
+- 📖 currently reading: Project Hail Mary by Andy Weir
+- 🎮 currently playing: Baldur's Gate 3 
 - 💻 current favourite open source project: **[InvokeAI -The best AI image generation platform](https://github.com/invoke-ai/InvokeAI)**
